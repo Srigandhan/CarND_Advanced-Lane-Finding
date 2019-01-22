@@ -5,7 +5,7 @@ In this project, your goal is to write a software pipeline to identify the lane 
 
 Writeup:
 ---
-The write up for this project can be found [here](./Writeup_ReportAdvanced Lane Finding Project.pdf)
+The write up for this project can be found [here](./Writeup_ReportAdvanced%20Lane%20Finding%20Project.pdf)
 
 The Project
 ---
